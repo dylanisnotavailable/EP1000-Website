@@ -1,0 +1,123 @@
+body{
+    background-image: url("https://media.istockphoto.com/photos/sound-wave-picture-id1287065554?b=1&k=20&m=1287065554&s=170667a&w=0&h=6JIPYTu98DAXdChKSeu-Td3zv8KyLC3yhu-rWfkDQQc=");
+    font-family: Sourcecodepro-black, sans-serif;
+    width: 60%;
+    margin-left: 20%;
+    margin-right:20%;
+background-position: absolute;
+background-attachment: fixed;
+background-size: cover;
+position:relative;
+text-align:center;
+
+}
+
+#container{
+    background-color:#333;
+    color:white;
+
+
+
+    
+}
+#header{
+    background-color: #bfe6ff;
+    text-align: center;
+    color:white;
+    padding: 10px;
+    -webkit-text-stroke: 1px black;
+}
+#content{
+    padding: 10px;
+    background-color: #333;
+
+}
+
+
+
+
+#nav .selected{
+    font-weight:bold;
+}
+
+a{ 
+    text-decoration: none;
+    color:#fc6600;
+}
+
+#main{
+  
+    text-align:center;
+    background-color: #333;
+    
+
+}
+#footer{
+    clear:both;
+    padding: 10px;
+    background-color:#999999;
+    color: white;
+    text-align: right;
+
+}
+
+h1, h2, h3{
+    margin: 0;
+}
+
+.nav{
+    width:100%;
+    background:#000033;
+    height: 80px;
+
+
+}
+
+ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+    position:absolute;
+
+}
+ul li{
+    float:left;
+    margin-top:20px;
+
+
+}
+ul li a{
+    width:150px;
+    color:white;
+    display:inline-block;
+    text-decoration:none;
+    text-align:center;
+    padding:10px;
+
+
+
+}
+a:hover{
+    background:#000399;
+
+}
+ul li ul{
+    background:#000033;
+
+}
+ul li ul li{
+    float:none;
+
+}
+ul li ul{
+    display:none;
+
+}
+#personal{
+    color:white;
+
+}
+table{
+    color:white;
+    
+}
